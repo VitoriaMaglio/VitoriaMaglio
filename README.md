@@ -30,16 +30,16 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
 
 # 🎓 Certificados de programação:
 
--<a href="./certificados/certificado-python.pdf">📜 Curso de Python - Alura</a>
--<a href="./certificados/Certificado-java.pdf">📜 Curso de Java - Alura</a>
--<a href="./certificados/Certificado-html-css.pdf">📜 Curso de HTML e CSS - Alura</a>
--<a href="./certificados/Certificado-HTML-E-CSS.pdf">📜 Curso de HTML e CSS - Alura</a>
--<a href="./certificados/Certificado-HTML-CSS-2.pdf">📜 Curso de HTML e CSS - Alura</a>
-  
+- [📜 Curso de Python - Alura](./certificados/certificado-python.pdf)
+- [📜 Curso de Java - Alura](./certificados/Certificado-java.pdf)
+- [📜 Curso de HTML e CSS - Alura](./certificados/Certificado-html-css.pdf)
+- [📜 Curso de HTML e CSS - Alura](./certificados/Certificado-HTML-E-CSS.pdf)
+- [📜 Curso de HTML e CSS - Alura](./certificados/Certificado-HTML-CSS-2.pdf)
 
 
 
-# 🚀Contatos:
+
+## 🚀Contatos:
 <p align="center">
 
  
