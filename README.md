@@ -1,4 +1,4 @@
-# Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!👋
+# Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!👋 <img src="https://img.icons8.com/?size=100&id=cLlT6zlyUlSA&format=png&color=000000" width="120" alt="HTML5">
 
 Estou cursando Análise e Desenvolvimento de sistemas na Fiap.
 Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
@@ -10,11 +10,12 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMaglio&layout=compact&langs_count=6&theme=tokyonight"/>
 
-   <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="120" alt="PYTHON">
+  <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="120" alt="PYTHON">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/560/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="120" alt="JavaScript">
- https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="JAVA">
+ 
   </a>
 </table>
 
