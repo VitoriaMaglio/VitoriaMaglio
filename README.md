@@ -14,7 +14,7 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
 Tecnologiasa que eu uso:
 <table align="center">
   <tr>
-    <img src="https://img.icons8.com/?size=100&id=cLlT6zlyUlSA&format=png&color=000000" width="120" alt="HTML5"> 
+    <td><img src="https://img.icons8.com/?size=100&id=cLlT6zlyUlSA&format=png&color=000000" width="120" alt="Computador"> </td>
     <td><img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="120" alt="PYTHON"></td>
     <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
     <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>
