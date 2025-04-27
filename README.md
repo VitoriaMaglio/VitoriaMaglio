@@ -14,7 +14,7 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
 
   
 
-# 🚀Tech Stack que eu domino: 
+# 🧠Tech Stack que eu domino: 
 
 
 <p align="center">
