@@ -25,7 +25,7 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
   <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="120" alt="JavaScript">
 </p>
 
-# Contato
+# Contatos:
 <p align="center">
 
  
