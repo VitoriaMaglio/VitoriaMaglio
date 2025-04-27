@@ -16,7 +16,7 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
 
 # 🧠Tech Stack que eu domino: 
 
-
+<table> 
 <p align="center">
   
   <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="120" alt="PYTHON">
@@ -25,7 +25,8 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
   <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="120" alt="Java">
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="120" alt="JavaScript">
   
-</p>
+</p> 
+</table>
 
 # 🎓 Certificados de programação:
 <p>
