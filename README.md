@@ -1,4 +1,4 @@
-#<table> <img src="https://img.icons8.com/?size=100&id=cLlT6zlyUlSA&format=png&color=000000" width="120" alt="HTML5"> Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!👋 </table>
+# Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!👋
 Estou cursando Análise e Desenvolvimento de sistemas na Fiap.
 Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
 
@@ -31,6 +31,8 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
+<img src="https://img.icons8.com/?size=100&id=cLlT6zlyUlSA&format=png&color=000000" width="120" alt="HTML5"> 
 
 
 
