@@ -1,4 +1,4 @@
-#  <img src="https://img.icons8.com/?size=100&id=cLlT6zlyUlSA&format=png&color=000000" width="120" alt="HTML5"> Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!👋 
+#<table> <img src="https://img.icons8.com/?size=100&id=cLlT6zlyUlSA&format=png&color=000000" width="120" alt="HTML5"> Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!👋 </table>
 Estou cursando Análise e Desenvolvimento de sistemas na Fiap.
 Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
 
