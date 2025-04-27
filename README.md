@@ -28,7 +28,7 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
 </p>
 
 # 🎓 Certificados de programação:
-<p align="center">
+<p>
   <a href="./certificado-python.pdf">📜 Curso de Python - Alura</a> 
 </p>
 
