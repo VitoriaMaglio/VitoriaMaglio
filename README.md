@@ -11,7 +11,7 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
   </a>
 </table> 
 
-<img src="https://img.icons8.com/?size=100&id=cLlT6zlyUlSA&format=png&color=000000" width="120" alt="Computador"> ###Tecnologias que eu uso:
+<img src="https://img.icons8.com/?size=100&id=cLlT6zlyUlSA&format=png&color=000000" width="120" alt="Computador"><p style="font-size: 24px; font-weight: bold;">Tecnologias que eu uso</p>
 <p align="center">
   
   <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="120" alt="PYTHON">
