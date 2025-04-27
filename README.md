@@ -27,6 +27,12 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
   
 </p>
 
+# 🎓 Certificados
+<p align="center">
+  - [Curso de Python - Alura](certificado-python.pdf)
+</p>
+
+
 # 🚀Contatos:
 <p align="center">
 
