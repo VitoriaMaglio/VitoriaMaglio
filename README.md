@@ -14,7 +14,7 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
 
   
 
-# Tech Stack que eu domino: 
+# 🚀Tech Stack que eu domino: 
 
 
 <p align="center">
@@ -25,7 +25,7 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
   <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="120" alt="JavaScript">
 </p>
 
-# Contatos:
+# 🚀Contatos:
 <p align="center">
 
  
