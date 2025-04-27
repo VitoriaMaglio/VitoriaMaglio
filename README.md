@@ -7,8 +7,8 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
 
 <table>
   <a href="https://github.com/leehxd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leehxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehxd&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMaglio&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </table>
 
