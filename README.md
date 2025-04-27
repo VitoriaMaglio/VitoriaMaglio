@@ -22,7 +22,9 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
   <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="120" alt="PYTHON">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="120" alt="JavaScript">
+  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="120" alt="Java">
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="120" alt="JavaScript">
+  
 </p>
 
 # 🚀Contatos:
