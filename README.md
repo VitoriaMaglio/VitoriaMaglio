@@ -12,11 +12,13 @@ Sempre em busca de conhecimento e aperfeiçoamneto profissional e pessoal.
 </table> 
 
 Tecnologiasa que eu uso:
-<table>
-  <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="120" alt="PYTHON">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="120" alt="JavaScript">
+<table align="center">
+  <tr>
+    <td><img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="120" alt="PYTHON"></td>
+    <td><img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5"></td>
+    <td><img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3"></td>
+    <td><img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="120" alt="JavaScript"></td>
+  </tr>
 </table>
 
 
