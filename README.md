@@ -26,17 +26,9 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
 - Java ☕
 - JavaScript 💻
 
-# Certificados
-
-### Cursos Alura 📚
-
-✨ **Confira meus certificados dos cursos realizados na Alura:**
-
-- 🎓 [**Curso de Python** - Alura](./certificados/certificado-python.pdf)
-- 🎓 [**Curso de Java** - Alura](./certificados/Certificado-java.pdf)
-- 🎓 [**Curso de HTML e CSS** - Alura](./certificados/Certificado-html-css.pdf)
-- 🎓 [**Curso de HTML e CSS (Avançado)** - Alura](./certificados/Certificado-HTML-E-CSS.pdf)
-- 🎓 [**Curso de HTML e CSS (2)** - Alura](./certificados/Certificado-HTML-CSS-2.pdf)
+## Planos Futuros
+-Concluir o tecnólogo em ADS e buscar constantemente aprimorar meus conhecimnentos.
+- Foco em trabalhar como desenvolvedora back-end.
 
 # 🚀Contatos:
 <p align="center">
