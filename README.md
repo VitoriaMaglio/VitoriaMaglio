@@ -1,7 +1,5 @@
-# Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!👋
+# Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!
 Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
-
-
 
 #  Tech Stack que eu domino:
 
