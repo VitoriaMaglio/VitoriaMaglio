@@ -9,7 +9,7 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
   </a>
 </table> 
 
-# 🧠 Tech Stack que eu domino:
+#  Tech Stack que eu domino:
 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="80" alt="Java">
@@ -21,20 +21,21 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
   <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="80" alt="React">
 </p>
 
+<table>
 ### Tecnologias:
-- Java ☕
-- Python 🐍
+- Java 
+- Python 
 - SQL
-- HTML5 🌐
-- CSS3 🎨
-- JavaScript 💻
+- HTML5 
+- CSS3 
+- JavaScript 
 - React
-
+<table>
 ## Planos Futuros
 -Concluir o tecnólogo em ADS e buscar constantemente aprimorar meus conhecimnentos.
 - Foco em trabalhar como desenvolvedora back-end.
 
-# 🚀Contatos:
+# Contatos:
 <p align="center">
   <a href="https://www.instagram.com/vi.maglio/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
