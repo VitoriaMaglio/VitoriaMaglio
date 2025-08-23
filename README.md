@@ -19,7 +19,6 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
   <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="80" alt="JavaScript">
   <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="80" alt="React">
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 </p>
 
 
