@@ -1,5 +1,11 @@
 # Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!
 Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
+<div align="center">
+  <a href="https://github.com/VitoriaMaglio">
+    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 
 #  Tech Stack que eu domino:
 
