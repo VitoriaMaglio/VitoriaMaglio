@@ -22,8 +22,7 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
 </p>
 
 
-### Tecnologias:
-- Java - Python - SQL - HTML5 - CSS3 - JavaScript - React
+
 
 ## Planos Futuros
 Domino Java e possuo conhecimento em AWS, além de estar aprofundando meu aprendizado em SQL para desenvolver aplicações seguras e escaláveis. Meu foco principal é o Desenvolvimento Back-End com Java (Spring Boot), mas também tenho curiosidade em aprender mais sobre Front-End para expandir minha visão como desenvolvedora.Atualmente, busco oportunidades para aplicar meus conhecimentos técnicos, evoluir minhas competências profissionais e contribuir ativamente em projetos reais.
