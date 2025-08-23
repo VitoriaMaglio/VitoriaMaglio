@@ -21,7 +21,7 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
   <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="80" alt="React">
 </p>
 
-<table>
+
 ### Tecnologias:
 - Java 
 - Python 
@@ -30,10 +30,24 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
 - CSS3 
 - JavaScript 
 - React
-<table>
+
 ## Planos Futuros
--Concluir o tecnólogo em ADS e buscar constantemente aprimorar meus conhecimnentos.
-- Foco em trabalhar como desenvolvedora back-end.
+-Domino Java e possuo conhecimento em AWS, além de estar aprofundando meu aprendizado em SQL para desenvolver aplicações seguras e escaláveis. Meu foco principal é o Desenvolvimento Back-End com Java (Spring Boot), mas também tenho curiosidade em aprender mais sobre Front-End para expandir minha visão como desenvolvedora.
+Áreas em que estou focada no momento:
+
+Desenvolvimento Back-End com Java (Spring Boot)
+
+Modelagem, consultas avançadas e integração com bancos de dados relacionais (SQL)
+
+Python para análise de dados, automação e suporte a soluções inteligentes
+
+Uso de serviços de Cloud Computing, com foco em AWS, para criar aplicações escaláveis e seguras.
+
+Boas práticas de versionamento, documentação e compartilhamento de código
+
+Atualmente, busco oportunidades para aplicar meus conhecimentos técnicos, evoluir minhas competências profissionais e contribuir ativamente em projetos reais.
+
+Confira meus projetos aqui no GitHub e acompanhe minha evolução! 
 
 # Contatos:
 <p align="center">
