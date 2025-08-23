@@ -4,8 +4,8 @@ Sempre em busca de conhecimento e aperfeiçoamento profissional e pessoal.
 
 <table>
   <a href="https://github.com/VitoriaMaglio">
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMaglio&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMaglio&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </table> 
 
