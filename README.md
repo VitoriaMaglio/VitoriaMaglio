@@ -3,7 +3,8 @@
 <div align="center">
  
   <a href="https://github.com/VitoriaMaglio">
-    <img height="210em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    (https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=radical&cache_seconds=1800&title_color=#FF5733&text_color=#FFFFFF&bg_color=#000000)
+
   </a>
 </div>
 
