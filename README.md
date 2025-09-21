@@ -4,7 +4,8 @@
  <div align="center"> 
   <a href="https://github.com/VitoriaMaglio">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=radical&cache_seconds=1800&bg_color=FFC0CB)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=radical&cache_seconds=1800&bg_color=000000&title_color=FF1493&text_color=FFFFFF&icon_color=FF1493)
+
 
 
 </a> </div>
