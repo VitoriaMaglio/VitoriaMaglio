@@ -1,15 +1,6 @@
 # Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=radical)](https://github.com/VitoriaMaglio)
 
-
- <div align="center"> 
-  <a href="https://github.com/VitoriaMaglio">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=radical&cache_seconds=1800&bg_color=000000&title_color=FF1493&text_color=FFFFFF&icon_color=FF1493)
-
-
-
-</a> </div>
-  
 
 
 #  Tech Stack que eu domino:
