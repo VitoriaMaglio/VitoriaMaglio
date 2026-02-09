@@ -1,5 +1,6 @@
 # Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=radical)](https://github.com/VitoriaMaglio)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true)](https://github.com/VitoriaMaglio)
+
 
 
 
