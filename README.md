@@ -6,15 +6,26 @@
 
 #  Tech Stack que eu domino:
 
-<p align="center">
-  <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="80" alt="Java">
-  <img src="https://img.icons8.com/?size=100&id=hGdCwhSHUe6L&format=png&color=000000" width="80" alt="Python">
-  <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="80" alt="SQL">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3">
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="80" alt="JavaScript">
-  <img src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000" width="80" alt="React">
-</p>
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Back-end
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
+
+### 🎨 Front-end
+![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+
+### 🗄️ Banco de Dados
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+
+### ⚙️ Ferramentas
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+![IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+
 
 
 
