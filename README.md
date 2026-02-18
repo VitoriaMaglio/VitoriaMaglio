@@ -1,7 +1,10 @@
 # Olá Mundo! Eu sou a Vitória Maglio, seja bem-vindo ao meu perfil!
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=VitoriaMaglio&show_icons=true)
 
+## ✨ Sobre mim
 
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em **desenvolvimento back-end**.  
+Tenho experiência em **projetos acadêmicos utilizando Java e Spring Boot**, criação e consumo de **APIs REST** e integração com **bancos de dados relacionais e não relacionais.**.
+Gosto de aprender novas tecnologias, sou curiosa, organizada e acredito que código bem estruturado facilita manutenção e evolução dos sistemas.
 
 
 #  Tech Stack que eu domino:
