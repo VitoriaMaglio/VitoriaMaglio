@@ -60,10 +60,10 @@ Gosto de aprender novas tecnologias, sou curiosa, organizada e acredito que cód
 <div align="center">
 
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=VitoriaMaglio&show_icons=true&theme=dark&hide_border=true" />
 
 
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitoriaMaglio&layout=compact&theme=dark&hide_border=true" />
 
 </div>
 
