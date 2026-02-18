@@ -57,11 +57,13 @@ Gosto de aprender novas tecnologias, sou curiosa, organizada e acredito que cód
 </table>
 
 ## 📊 Minhas estatísticas no GitHub
+<div align="center">
 
 <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitoriaMaglio&theme=tokyonight" />
 
-<img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitoriaMaglio&theme=tokyonight" />
+<img width="600" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitoriaMaglio&theme=tokyonight" />
 
+</div>
 
 <div align="center">
 
