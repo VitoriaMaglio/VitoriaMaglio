@@ -67,7 +67,7 @@ Gosto de aprender novas tecnologias, sou curiosa, organizada e acredito que cód
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitoriaMaglio&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitoriaMaglio&theme=tokyonight&hide_border=true" />
 
 </div>
 
