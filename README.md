@@ -56,7 +56,7 @@ Gosto de aprender novas tecnologias, sou curiosa, organizada e acredito que cód
   </tr>
 </table>
 
-## 📊 Minhas estatísticas no GitHub
+## Minhas estatísticas no GitHub
 <div align="center">
 
 <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitoriaMaglio&theme=tokyonight" />
@@ -74,7 +74,7 @@ Gosto de aprender novas tecnologias, sou curiosa, organizada e acredito que cód
 
 
 
-## Áreas em que estou focada no momento:
+## ✨Áreas em que estou focada no momento:
 
 Desenvolvimento Back-End com Java (Spring Boot)
 
@@ -86,8 +86,7 @@ Uso de serviços de Cloud Computing, com foco em AWS, para criar aplicações es
 
 Boas práticas de versionamento, documentação e compartilhamento de código
 
-## Planos Futuros
-Atualmente, busco oportunidades para aplicar meus conhecimentos técnicos, evoluir minhas competências profissionais e contribuir ativamente em projetos reais.
+
 
 Confira meus projetos aqui no GitHub e acompanhe minha evolução! 
 
